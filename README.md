@@ -10,3 +10,12 @@
   
 <img src="img/exemplos/exemplo1.jpg">  
   
+```  
+.cabecalhoPrincipal-nav {
+    display: flex;
+}
+```
+    
+  <img src="img/exemplos/exemplo2.jpg">
+  
+  
