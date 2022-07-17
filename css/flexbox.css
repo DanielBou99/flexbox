@@ -1,3 +1,4 @@
+/* Flexbox cabeçalho */
 .cabecalhoPrincipal .container {
     display: flex;
     align-items: center;
@@ -8,6 +9,7 @@
     display: flex;
 }
 
+/* Flexbox rodapé */
 .rodapePrincipal-patrocinadores .container {
     display: flex;
     justify-content: space-between;
@@ -28,3 +30,12 @@
 .rodapePrincipal-contatoForm-fieldset {
     display: flex;
 }
+
+/* Mapa de cursos */
+.rodapePrincipal-navMap-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 255px;
+}
+

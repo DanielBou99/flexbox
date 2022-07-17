@@ -43,3 +43,16 @@
   
 <img src="img/exemplos/exemplo3.jpg">  
   
+```  
+/* Mapa de cursos */
+.rodapePrincipal-navMap-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 255px;
+}
+```  
+  
+<img src="img/exemplos/exemplo4.jpg">  
+  
+  
