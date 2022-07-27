@@ -55,4 +55,26 @@
   
 <img src="img/exemplos/exemplo4.jpg">  
   
+```  
+/* Cards Cursos */
+.conteudoPrincipal-cursos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.conteudoPrincipal-cursos-link {
+    width: 23%;
+    margin: 1;
+}
+
+.conteudoPrincipal-cursos-link:nth-child(4n) {
+    margin-right: 0;
+}
+
+.conteudoPrincipal-cursos-link:nth-child(4n+1) {
+    margin-left: 0; 
+}
+```  
+  
+<img src="img/exemplos/exemplo5.jpg">  
   
